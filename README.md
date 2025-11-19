@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Omosebi</h1>
-<h3 align="center">A passionate frontend developer from lagos, Nigeria.</h3>
+<h3 align="center">A passionate web(frontend) and mobile(android-kotlin) developer from lagos, Nigeria.</h3>
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" >
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning **React Native**
+- 🔭 I’m currently learning **Android development**
 
 - 💬 Ask me about **Anything Code Related**
 
